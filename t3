@@ -1,0 +1,5 @@
+products = [
+    {"id": 1, "name": "Shoes", "price": 999},
+    {"id": 2, "name": "T-Shirt", "price": 499}
+]
+session['cart'].append(product_id)
